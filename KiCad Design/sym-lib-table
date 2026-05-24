@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ProtoTone_Syhnt_Library") (type "KiCad") (uri "${KIPRJMOD}/ProtoTone_Syhnt_Library.kicad_sym") (options "") (descr ""))
+)
